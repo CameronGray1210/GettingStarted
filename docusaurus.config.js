@@ -23,7 +23,7 @@ module.exports = {
       },
     },
     tableOfContents: {
-      maxHeadingLevel: 4,
+      maxHeadingLevel: 5,
     },
     footer: {
       style: 'dark',
