@@ -1,8 +1,8 @@
 ---
 id: gettingstarted
 title: Getting Started
-sidebar_position: 1
-slug: /gettingstarted/gettingstarted
+sidebar_position: 2
+slug: /gettingstarted
 description:  Student onboarding - getting started 
 ---
 
