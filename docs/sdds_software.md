@@ -10,6 +10,13 @@ description:  Student onboarding - SDDS software recommendations
 
 ## Software
 
+### VPN
+To access Seneca services and servers,
+You will require a VPN client to be running and connected prior to making connections to many Seneca services and servers.
+* [GlobalProtect VPN](https://employees.senecacollege.ca/spaces/77/it-services/wiki/view/3716/vpn) (What is a VPN? See this resource: [Virtual Private Network](https://en.wikipedia.org/wiki/Virtual_private_network) ). See the Students section.  To use SSH/SFTP to Matrix -- the server used to submit and run acceptance testing on your C programs -- users must be connected to the Seneca VPN.
+* macOS users might save time by reading this first: [https://tech.wayne.edu/kb/security/wsu-virtual-private-network/500214](https://tech.wayne.edu/kb/security/wsu-virtual-private-network/500214)
+* You must reconnect/sign-on to the VPN every time you restart your computer.
+
 ### Browsers
 It is recommended you use chromium-based browsers to access Seneca web portals for the best experience:
 * Mozilla [Firefox](https://www.mozilla.org/en-US/exp/firefox/)
@@ -45,7 +52,7 @@ The Microsoft 365 suite of applications is free to install on your personal comp
 
 #### Visual Studio
 The Visual Studio IDE \(Integrated Development Environment\) is a professional-grade development tool widely used by industry leaders 
-* [Visual Studio 17 \(2022\) Community Edition](https://visualstudio.microsoft.com/free-developer-offers/) is free! See install details below
+* [Visual Studio 17 \(2022\) Community Edition](https://visualstudio.microsoft.com/free-developer-offers/) is free!
 
 ### FTP Client \(File Transfer Protocol\)
 Required for transferring files from your computer to Seneca's server
@@ -73,6 +80,6 @@ Required for interacting with Seneca servers in a terminal shell environment
 * [https://my.senecacollege.ca](https://my.senecacollege.ca) where your courses reside inside the Blackboard Learning Management System
 * [https://sdds.senecacollege.ca](https://sdds.senecacollege.ca) -- our School of Software Development and Data Science (SDDS) for announcements, events, and more.
 
-:::warning DEPRICATED?
+<!-- :::warning DEPRICATED?
 Will the SDDS website \(above link\) still be updated and maintained? or has ITS added this to their portfolio?
-:::
+::: -->
