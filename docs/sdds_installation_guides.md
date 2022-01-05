@@ -10,12 +10,10 @@ description:  Student onboarding - SDDS software installation guides
 
 ## Installation Guides
 
-### VPN
+### VPN ([Virtual Private Network](https://en.wikipedia.org/wiki/Virtual_private_network))
 To access Seneca services and servers,
-You will require a VPN client to be running and connected prior to making connections to many Seneca services and servers.
-* [GlobalProtect VPN](https://employees.senecacollege.ca/spaces/77/it-services/wiki/view/3716/vpn) (What is a VPN? See this resource: [Virtual Private Network](https://en.wikipedia.org/wiki/Virtual_private_network) ). See the Students section.  To use SSH/SFTP to Matrix -- the server used to submit and run acceptance testing on your C programs -- users must be connected to the Seneca VPN.
-* macOS users might save time by reading this first: [https://tech.wayne.edu/kb/security/wsu-virtual-private-network/500214](https://tech.wayne.edu/kb/security/wsu-virtual-private-network/500214)
-* You must reconnect/sign-on to the VPN every time you restart your computer.
+a VPN client must be running and connected on your system.
+* [GlobalProtect VPN](https://employees.senecacollege.ca/spaces/77/it-services/wiki/view/3716/vpn) - See the Students section and install on your system.  
 
 ### Visual Studio 2022 (Community Edition)
 

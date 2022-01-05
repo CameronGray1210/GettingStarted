@@ -10,13 +10,6 @@ description:  Student onboarding - SDDS software recommendations
 
 ## Software
 
-### VPN
-To access Seneca services and servers,
-You will require a VPN client to be running and connected prior to making connections to many Seneca services and servers.
-* [GlobalProtect VPN](https://employees.senecacollege.ca/spaces/77/it-services/wiki/view/3716/vpn) (What is a VPN? See this resource: [Virtual Private Network](https://en.wikipedia.org/wiki/Virtual_private_network) ). See the Students section.  To use SSH/SFTP to Matrix -- the server used to submit and run acceptance testing on your C programs -- users must be connected to the Seneca VPN.
-* macOS users might save time by reading this first: [https://tech.wayne.edu/kb/security/wsu-virtual-private-network/500214](https://tech.wayne.edu/kb/security/wsu-virtual-private-network/500214)
-* You must reconnect/sign-on to the VPN every time you restart your computer.
-
 ### Browsers
 It is recommended you use chromium-based browsers to access Seneca web portals for the best experience:
 * Mozilla [Firefox](https://www.mozilla.org/en-US/exp/firefox/)
@@ -54,7 +47,13 @@ The Microsoft 365 suite of applications is free to install on your personal comp
 The Visual Studio IDE \(Integrated Development Environment\) is a professional-grade development tool widely used by industry leaders 
 * [Visual Studio 17 \(2022\) Community Edition](https://visualstudio.microsoft.com/free-developer-offers/) is free!
 
-### FTP Client \(File Transfer Protocol\)
+### VPN ([Virtual Private Network](https://en.wikipedia.org/wiki/Virtual_private_network))
+To access Seneca services and servers,
+a VPN client must be running and connected on your system.
+* [GlobalProtect VPN](https://employees.senecacollege.ca/spaces/77/it-services/wiki/view/3716/vpn) - See the Students section and install on your system.  
+* See below for the Secure Shell and Secure File Transfer Protocol clients used to access the Matrix server where you submit and run acceptance testing on your C programs.
+
+### SFTP Client \(Secured File Transfer Protocol\)
 Required for transferring files from your computer to Seneca's server
 
 * [WinSCP](https://winscp.net/eng/download.php) (installation details below)
