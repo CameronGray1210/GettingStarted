@@ -54,3 +54,7 @@ img {
   display: block;
   margin: auto;
 }
+
+.theme-edit-this-page {
+  visibility: hidden;
+}
