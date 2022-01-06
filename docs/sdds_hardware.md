@@ -22,15 +22,23 @@ You will require:
     * i5 processor
     * 256GB storage \(preferably an SSD\)
 
-* Windows 10 is available as a free download to the School of SDDS students for those needing to upgrade or install.(see details in the [software](sdds_software.md) section.
+:::info Note
+* **ARM-based** Windows machines are not recommended as the College VPN does not support ARM.
+* Windows 10 is no longer available from Seneca. You are responsible for obtaining your own licensed operating system.
+:::
 
 ### Mac OSX Hardware
-You do not necessarily require a PC, but it is strongly recommended to support side-loading of Windows for some applications by implementing virtual machines.  The specifications below take this into consideration.
+An Intel based Mac or MacBook is acceptable as it will support side-loading of Windows for some applications by implementing virtual machines. The specifications below take this into consideration.
+
+:::warning
+M1 Macs are not currently supported as the College VPN does not work with ARM based machines.
+:::
+
 * Recommended minimum specifications are:
     * 16GB of RAM (to support VM)
-    * i5 processor (or M1)
+    * i5 processor
     * 512GB storage \(preferably an SSD\)
 * Technologies to consider for loading the Windows operating system:
-  * Use BootCamp
+  * BootCamp
   * Virtual machine
   * Parallels

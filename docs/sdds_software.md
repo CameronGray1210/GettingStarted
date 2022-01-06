@@ -47,6 +47,20 @@ The Microsoft 365 suite of applications is free to install on your personal comp
 The Visual Studio IDE \(Integrated Development Environment\) is a professional-grade development tool widely used by industry leaders 
 * [Visual Studio 17 \(2022\) Community Edition](https://visualstudio.microsoft.com/free-developer-offers/) is free!
 
+:::note Mac OSX
+Visual Studio is not available for Mac OS.  Students who wish to use Mac OS to do their work can alternatively use the following tools: 
+
+* **XCode**:  [Follow these instructions to use XCode](https://www.cs.auckland.ac.nz/~paul/C/Mac/xcode/)
+* **Visual Studio Code**:  [Follow these instructions to use Visual Studio Code](https://www.cs.auckland.ac.nz/~paul/C/Mac/)
+
+***Thanks to Dr. P. Denny of The University of Aukland***
+:::
+
+
+
+
+
+
 ### VPN ([Virtual Private Network](https://en.wikipedia.org/wiki/Virtual_private_network))
 To access Seneca services and servers,
 a VPN client must be running and connected on your system.
