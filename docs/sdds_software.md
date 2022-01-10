@@ -64,7 +64,7 @@ Visual Studio is not available for Mac OS.  Students who wish to use Mac OS to d
 ### VPN ([Virtual Private Network](https://en.wikipedia.org/wiki/Virtual_private_network))
 To access Seneca services and servers,
 a VPN client must be running and connected on your system.
-* [GlobalProtect VPN](https://employees.senecacollege.ca/spaces/77/it-services/wiki/view/3716/vpn) - See the Students section and install on your system.  
+* [GlobalProtect VPN](https://students.senecacollege.ca/spaces/186/it-services/wiki/view/1024/vpn) - See the Students section and install on your system.  
 * See below for the Secure Shell and Secure File Transfer Protocol clients used to access the Matrix server where you submit and run acceptance testing on your C programs.
 
 ### SFTP Client \(Secured File Transfer Protocol\)

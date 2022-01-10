@@ -13,7 +13,7 @@ description:  Student onboarding - SDDS software installation guides
 ### VPN ([Virtual Private Network](https://en.wikipedia.org/wiki/Virtual_private_network))
 To access Seneca services and servers,
 a VPN client must be running and connected on your system.
-* [GlobalProtect VPN](https://employees.senecacollege.ca/spaces/77/it-services/wiki/view/3716/vpn) - See the Students section and install on your system.  
+* [GlobalProtect VPN](https://students.senecacollege.ca/spaces/186/it-services/wiki/view/1024/vpn) - See the Students section and install on your system.  
 
 ### Visual Studio 2022 (Community Edition)
 
