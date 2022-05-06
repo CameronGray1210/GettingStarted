@@ -30,10 +30,6 @@ You will require:
 ### Mac OSX Hardware
 An Intel based Mac or MacBook is acceptable as it will support side-loading of Windows for some applications by implementing virtual machines. The specifications below take this into consideration.
 
-:::warning
-M1 Macs are not currently supported as the College VPN does not work with ARM based machines.
-:::
-
 * Recommended minimum specifications are:
     * 16GB of RAM (to support VM)
     * i5 processor
