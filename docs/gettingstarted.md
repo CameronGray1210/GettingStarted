@@ -10,15 +10,7 @@ description:  Student onboarding - getting started
 
 ## Seneca College
 
-### Are You Ready For Online Learning?
-
-#### Readiness Questionaire
-
-* [Online Learning Readiness Questionaire](https://infoliteracy.senecacollege.ca/OnlineLearningReadiness/story.html)
-
-#### Online Tutorial
-
-* Do the tutorial at [https://cfdev.senecacollege.ca/tl/forstudents/areyoureadyforonlinelearning/](https://cfdev.senecacollege.ca/tl/forstudents/areyoureadyforonlinelearning)
+### Are You Ready For School?
 
 #### Orientation
 
