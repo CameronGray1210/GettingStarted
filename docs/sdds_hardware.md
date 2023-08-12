@@ -9,18 +9,17 @@ description:  Student onboarding - SDDS hardware recommendations
 # School of Software Design and Data Science \(SDDS\)
 
 ## Hardware
-What you need to be successfull in the school of SDDS.
+What you need to be successful in the school of SDDS.
 
 You will require:
-
-* A **reliable** high speed internet connection
 
 ### Windows Hardware
 
 * A computer running Windows 10 \(or 11\). Recommended minimum specifications are:
-    * 8GB of RAM
-    * i5 processor
-    * 256GB storage \(preferably an SSD\)
+    * RAM: 16GB
+    * Processor: Quad-core processor with a minimum 2.4 GHz clock speed
+    * Storage: 256GB Solid State Drive (SSD)
+    * Peripherals: Keyboard, mouse/trackpad, webcam, microphone
 
 :::info Note
 * **ARM-based** Windows machines are not recommended as the College VPN does not support ARM.
@@ -31,10 +30,16 @@ You will require:
 An Intel based Mac or MacBook is acceptable as it will support side-loading of Windows for some applications by implementing virtual machines. The specifications below take this into consideration.
 
 * Recommended minimum specifications are:
-    * 16GB of RAM (to support VM)
-    * i5 processor
+    * RAM: 16GB
+    * Processor: Quad-core processor \(any base quad core processors in MacBook Air, Pro 13/16" are acceptable\)
     * 512GB storage \(preferably an SSD\)
-* Technologies to consider for loading the Windows operating system:
-  * BootCamp
-  * Virtual machine
-  * Parallels
+    * Peripherals: Keyboard, mouse/trackpad, webcam, microphone
+
+:::info Note
+    * **You will have to run Windows on your Mac** in order to run the software required for your courses, you can do this currently through **Bootcamp** and in the future on a Mac with an Intel processor. You can also run Windows virtually through **VMware** (free) or **Parallels** (50% off for students). A copy of Windows Education is available free for SDDS students. 
+    * Parallels and Windows are available here for SDDS students: https://senecacollege.onthehub.com/WebStore/Welcome.aspx 
+    * Apple offers bonus education discounts on the Air and 13” Pro about 6 weeks before and after the start of fall semester  
+:::
+
+### Internet
+A high-speed internet connection is needed for online/hybrid courses, and requires a **minimum bandwidth of 25mb/sec down, and 2mb/sec up**, faster than that is better. The Canadian government has mandated that 50 down and 10 up should be the minimum required to call a connection high-speed.
