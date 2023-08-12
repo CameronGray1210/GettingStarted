@@ -23,5 +23,5 @@ description:  Student onboarding - getting started
   * Regular or Power User models would work well for you in our school.
 
 :::important
-See the School of Software Design and Data Science (SDDS) hardware and software requirements sections for more detailed specifications!
+For more detailed specifications, review the School of Software Design and Data Science (SDDS) **hardware** and **software** requirements in the next couple of sections!
 :::
