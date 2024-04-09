@@ -3,24 +3,23 @@ id: hardware
 title: Hardware
 sidebar_position: 3
 slug: /hardware
-description:  Student onboarding - SDDS hardware recommendations
+description:  Student onboarding - SCPA hardware recommendations
 ---
 
-# School of Software Design and Data Science \(SDDS\)
+# School of Computer Programming and Analysis \(SCPA\)
 
 ## Hardware
-What you need to be successful in the school of SDDS.
+What you need to be successful in the school of SCPA.
 
 You will require:
 
 ### Windows Hardware
 
-* A computer running Windows 10 \(or 11\). Recommended minimum specifications are:
+* A computer running **Windows** 10 \(or 11\). Recommended minimum specifications are:
     * RAM: 16GB
-    * Processor: Quad-core processor with a minimum 2.4 GHz clock speed
-    * Storage: 256GB Solid State Drive (SSD)
+    * Processor: i5 processor \(i7 or M processor preferred\)
+    * Storage: 512GB Solid State Drive \(SSD\) \(1TB preferred\)
     * Peripherals: Keyboard, mouse/trackpad, webcam, microphone
-    * DELL: Seneca has preferential pricing with DELL \(the 'regular user model' is sufficient for most of your coursework.\)
 
 :::info Note
 * **ARM-based** Windows machines are not recommended as the College VPN does not support ARM.
@@ -41,7 +40,7 @@ An Intel based Mac or MacBook is acceptable as it will support side-loading of W
     * **Bootcamp** (Intel processor only)
     * **VMWare** (free) allows  you to run Windows virtually
     * **Parallels** (50% off for students)
-        * Parallels and Windows are available here for SDDS students: **https://senecacollege.onthehub.com/WebStore/Welcome.aspx** 
+        * Parallels and Windows are available here for SDDS students: **https://senecapolytechnic.onthehub.com/WebStore/Welcome.aspx** 
         * A copy of Windows Education is available free for SDDS students.
         * Apple offers bonus education discounts on the Air and 13” Pro about 6 weeks before and after the start of fall semester  
 :::

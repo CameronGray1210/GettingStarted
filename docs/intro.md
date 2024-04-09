@@ -7,6 +7,6 @@ sidebar_position: 1
 # Table of Contents
 
 * [Getting Started](gettingstarted.md)
-* [Hardware](sdds_hardware.md)
-* [Software](sdds_software.md)
-* [Software Installation Guides](sdds_installation_guides.md)
+* [Hardware](scpa_hardware.md)
+* [Software](scpa_software.md)
+* [Software Installation Guides](scpa_installation_guides.md)

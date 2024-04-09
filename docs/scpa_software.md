@@ -1,19 +1,19 @@
 ---
-id: sddssoftware
+id: software
 title: Software
 sidebar_position: 4
 slug: /software
-description:  Student onboarding - SDDS software recommendations
+description:  Student onboarding - SCPA software recommendations
 ---
 
-# School of Software Design and Data Science \(SDDS\)
+# School of Computer Programming and Analysis \(SCPA\)
 
 ## Software
 
 ### Browsers
 It is recommended you use chromium-based browsers to access Seneca web portals for the best experience:
-* Mozilla [Firefox](https://www.mozilla.org/en-US/exp/firefox/)
 * Microsoft [Edge](https://www.microsoft.com/en-us/edge?r=1)
+* Mozilla [Firefox](https://www.mozilla.org/en-US/exp/firefox/)
 
 ### Microsoft Office
 Microsoft Office 365 Pro Plus is supplied by Seneca and used by everyone.  It is strongly suggested you become familiar with the Microsoft Office 365 applications:
@@ -30,7 +30,7 @@ The Microsoft 365 suite of applications is free to install on your personal comp
 :::
 
 #### Office Online Portal
-* Online Office application can be accessed at [https://mySeneca.ca](https://mySeneca.ca) \(sign on using your SenecaID@mySeneca.ca account\ credientials)
+* Online Office application can be accessed at [https://mySeneca.ca](https://mySeneca.ca) \(sign on using your SenecaID@mySeneca.ca account\ credentials)
   
 #### Desktop Installation
 * Full feature set of Office 365 applications is available for installation on your desktop \(only when installed on **your own computer at no charge**\)
@@ -45,7 +45,7 @@ The Microsoft 365 suite of applications is free to install on your personal comp
 
 #### Visual Studio
 The Visual Studio IDE \(Integrated Development Environment\) is a professional-grade development tool widely used by industry leaders 
-* [Visual Studio 17 \(2022\) Community Edition](https://visualstudio.microsoft.com/free-developer-offers/) is free!
+* [Visual Studio - Community Edition](https://visualstudio.microsoft.com/free-developer-offers/) is free!
 
 :::note Mac OSX
 Visual Studio is not available for Mac OS.  Students who wish to use Mac OS to do their work can alternatively use the following tools: 
@@ -62,9 +62,8 @@ Visual Studio is not available for Mac OS.  Students who wish to use Mac OS to d
 
 
 ### VPN ([Virtual Private Network](https://en.wikipedia.org/wiki/Virtual_private_network))
-To access Seneca services and servers,
-a VPN client must be running and connected on your system.
-* [GlobalProtect VPN](https://students.senecacollege.ca/spaces/186/it-services/wiki/view/1024/vpn) - See the Students section and install on your system.  
+To access Seneca services and servers, a VPN client must be running and connected on your system.
+* [GlobalProtect VPN](https://students.senecapolytechnic.ca/spaces/186/it-services/wiki/view/1024/vpn) - See the Students section and install on your system.  
 * See below for the Secure Shell and Secure File Transfer Protocol clients used to access the Matrix server where you submit and run acceptance testing on your C programs.
 
 ### SFTP Client \(Secured File Transfer Protocol\)
@@ -90,9 +89,11 @@ Required for interacting with Seneca servers in a terminal shell environment
 
 ## Popular Seneca Web Portals
 
-* [https://my.senecacollege.ca](https://my.senecacollege.ca) where your courses reside inside the Blackboard Learning Management System
-* [https://sdds.senecacollege.ca](https://sdds.senecacollege.ca) -- our School of Software Development and Data Science (SDDS) for announcements, events, and more.
+* [https://my.senecapolytechnic.ca](https://my.senecapolytechnic.ca) where your courses reside inside the Blackboard Learning Management System
+* [SCPA](https://www.senecapolytechnic.ca/school/computer-programming-and-analysis.html) CPP and CPA Program details
 
 <!-- :::warning DEPRICATED?
 Will the SDDS website \(above link\) still be updated and maintained? or has ITS added this to their portfolio?
+NOTE: Need to update to SCPA website if this is created....
+* [https://sdds.senecapolytechnic.ca](https://sdds.senecapolytechnic.ca) -- our School of Software Development and Data Science (SDDS) for announcements, events, and more.
 ::: -->

@@ -14,14 +14,13 @@ description:  Student onboarding - getting started
 
 #### Orientation
 
-* Have you seen the [student orientation](https://www.senecacollege.ca/student-services-and-support/student-life/orientation.html) web site yet? It is well worth your time.
+* Have you seen the [student orientation](https://www.senecapolytechnic.ca/student-services-and-support/student-life/orientation.html) web site yet? It is well worth your time.
 
 #### Seneca's Technical/Hardware Requirements
 
-* Seneca's [Technical Requirements for Online Learning](https://www.senecacollege.ca/student-services-and-support/technical-requirements-for-online-learning.html)
-  * Use this [online portal to purchase a Dell laptop](https://www.dell.ca/senecacollege) at a 25 per cent discount on three pre-configured models.
-  * Regular or Power User models would work well for you in our school.
+* Seneca's [Technical Requirements for Online Learning](https://www.senecapolytechnic.ca/student-services-and-support/technical-requirements-for-online-learning.html)
+* School of Computer Programming and Analysis (SCPA) [Hardware Requirements](https://www.senecapolytechnic.ca/school/computer-programming-and-analysis.html)
 
 :::important
-For more detailed specifications, review the School of Software Design and Data Science (SDDS) **hardware** and **software** requirements in the next couple of sections!
+For more detailed specifications, review the School of Computer Programming and Analysis (SCPA) **hardware** and **software** requirements in the next couple of sections!
 :::
