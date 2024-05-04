@@ -10,11 +10,6 @@ description:  Student onboarding - SCPA software recommendations
 
 ## Software
 
-### Browsers
-It is recommended you use chromium-based browsers to access Seneca web portals for the best experience:
-* Microsoft [Edge](https://www.microsoft.com/en-us/edge?r=1)
-* Mozilla [Firefox](https://www.mozilla.org/en-US/exp/firefox/)
-
 ### Microsoft Office
 Microsoft Office 365 Pro Plus is supplied by Seneca and used by everyone.  It is strongly suggested you become familiar with the Microsoft Office 365 applications:
 
