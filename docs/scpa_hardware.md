@@ -26,8 +26,14 @@ You will require:
 * Windows 10 is no longer available from Seneca. You are responsible for obtaining your own licensed operating system.
 :::
 
-### Mac OSX Hardware
-An Intel based Mac or MacBook is acceptable as it will support side-loading of Windows for some applications by implementing virtual machines. The specifications below take this into consideration.
+### Mac Hardware
+
+There are two types of Mac's out there.  Older Macs run an Intel chips. Newer chips are the apple M series chips which are ARM chips.
+
+An Intel based Mac or MacBook is perfectly acceptable as you can easily install windows either via a virtual machine (requires VM software such as parallels or vmware).  Alternatively Intel Macs can also dual boot into Windows using bootcamp which comes with MacOS.  Please check apple's documentation on how to do this.  Note that you will need to get a copy of windows in order to do this.
+
+M series Macs allow windows to be loaded via virtual machine software.  As the hardware is newer, there may be issues that we are not aware of.  Seneca does have access to windows based machines in labs so it may still be possible to do the program with these newer Macs.  It just might take a bit more work to get things working fully.
+
 
 * Recommended minimum specifications are:
     * RAM: 16GB
@@ -40,9 +46,10 @@ An Intel based Mac or MacBook is acceptable as it will support side-loading of W
     * **Bootcamp** (Intel processor only)
     * **VMWare** (free) allows  you to run Windows virtually
     * **Parallels** (50% off for students)
-        * Parallels and Windows are available here for SDDS students: **https://senecapolytechnic.onthehub.com/WebStore/Welcome.aspx** 
-        * A copy of Windows Education is available free for SDDS students.
-        * Apple offers bonus education discounts on the Air and 13” Pro about 6 weeks before and after the start of fall semester  
+        * Parallels and Windows are available here for SCPA/SDDS students: **https://senecapolytechnic.onthehub.com/WebStore/Welcome.aspx** 
+        * A copy of Windows Education is available free for SCPA/SDDS students.
+        * Apple always have reduced prices for computers for post secondary students.  To check education prices, scroll to bottom of Apple website and click the "shop for university link". for around 4 to 6 weeks before/after the start of fall semester there are usually extra bonuses.
+
 :::
 
 ### Internet

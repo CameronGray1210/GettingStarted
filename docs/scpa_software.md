@@ -10,6 +10,8 @@ description:  Student onboarding - SCPA software recommendations
 
 ## Software
 
+
+
 ### Microsoft Office
 Microsoft Office 365 Pro Plus is supplied by Seneca and used by everyone.  It is strongly suggested you become familiar with the Microsoft Office 365 applications:
 
@@ -65,7 +67,7 @@ To access Seneca services and servers, a VPN client must be running and connecte
 Required for transferring files from your computer to Seneca's server
 
 * [WinSCP](https://winscp.net/eng/download.php) (installation details below)
-* [FileZilla](https://www.ssh.com/academy/ssh/filezilla)
+* [FileZilla](https://www.ssh.com/academy/ssh/filezilla) - available for MacOS
 
 ### SSH Client \(Secure Shell\)
 Required for interacting with Seneca servers in a terminal shell environment
@@ -74,12 +76,19 @@ Required for interacting with Seneca servers in a terminal shell environment
 * [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) \(installation details below\)
 
 #### MacOS
-* Use the built-in SSH terminal (Finder, Go -> Utilities) OR
-* [PuTTY](https://www.ssh.com/academy/ssh/putty/mac) for Mac OSX
+* Use the built-in SSH terminal (Finder, Applications, Utilities)
+
 
 #### Linux
 * Use the preinstalled [OpenSSH](https://www.ssh.com/academy/ssh/openssh) terminal OR
 * Other Options including [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
+
+### Browsers
+
+Windows comes with Edge, Macs come with Safari.  Other than those browsers, it is a good idea to get one or both of the following browsers
+
+* Chrome
+* Firefox
 
 
 ## Popular Seneca Web Portals
