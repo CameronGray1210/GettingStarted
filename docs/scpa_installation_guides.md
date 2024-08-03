@@ -46,3 +46,5 @@ Try copying files to "matrix" (Seneca's Linux server) using a secured FTP client
 :::warning
   The demo connecting to matrix applies an OLD host address.  Be sure to replace with: **matrix.senecapolytechnic.ca**
 :::
+
+
